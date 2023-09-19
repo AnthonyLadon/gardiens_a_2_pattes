@@ -35,7 +35,7 @@ $ composer install
 - Configurer l'accès à la DB dans le fichier ".env" situé à la racine du projet. Modifiez 'nom_DB' et 'mot_de_passe' (ainsi que l'adresse du localhost si besoin)
 
 ```
-DATABASE_URL="mysql://nom_DB:mot_de_passe@127.0.0.1:8889/bienetre?serverVersion=8&charset=utf8mb4"
+DATABASE_URL="mysql://nom_DB:mot_de_passe@127.0.0.1:8889/gardien_2_pattes?serverVersion=8&charset=utf8mb4"
 ```
 
 - Configurer le mailer dans le fichier ".env" (Pour ce projet j'ai utillisé Mailtrap -> https://mailtrap.io)
