@@ -1,10 +1,6 @@
 # Gardiens à 2 pattes 🐶
 
-Projet de fin d'études que j'ai présenté à l'Institut Saint Laurent pour mon diplôme de web developer
-
-# Projet Bien-être
-
-Le site est un annuaire où des prestataires peuvent s’inscrire gratuitement et mettre en avant leurs services dans le domaine du bien-être.
+Ceci est le projet de fin d'études que j'ai présenté à l'Institut Saint Laurent en juin 2023 pour l'obtention de mon diplôme supérieur de web developer.
 
 ## ✍️ Auteur
 
